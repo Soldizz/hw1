@@ -9,6 +9,9 @@
 
 
 // hw2:
+console.log("hw2:");
+
+
 const celsius = 24;
 const fahrenheit = celsius * 9 / 5 + 32;
 console.log(Math.round(fahrenheit));
